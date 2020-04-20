@@ -1,0 +1,14 @@
+class Inspector: 
+    def receiveBulletin(string): 
+	    for country in allowedcountries 
+	    self.countries['allow'] =+ {country = []} 
+        for country in deniedcountries: 
+		    self.countries['deny'] =+ country
+			
+    self.countries = {'allow'={},'deny'=[]}
+    def requireddoc(country,workerstat): 
+	    docs = []
+        if country in self.countries['allow'].keys: 
+		    docs = self.countries['allow'][country]
+            
+		return rdocs   
